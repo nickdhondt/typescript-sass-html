@@ -1,1 +1,1 @@
-webpack-typescript-sass-html-template
+typescript-sass-html
