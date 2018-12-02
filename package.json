@@ -1,0 +1,27 @@
+{
+  "name": "typescript-sass-html",
+  "version": "0.0.2",
+  "description": "CLI for setting up a modern typescript sass frameworkless web app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tsh": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickdhondt/typescript-sass-html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickdhondt/typescript-sass-html/issues"
+  },
+  "homepage": "https://github.com/nickdhondt/typescript-sass-html#readme",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "mkdirp": "^0.5.1",
+    "write": "^1.0.3"
+  }
+}
